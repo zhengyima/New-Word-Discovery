@@ -2,10 +2,12 @@
 
 ## Setup
 
+Before launch the script install these packages in your **Python3(<=3.6)** environment:
+
 Requirements:
 
 ```
-pandas
+pandas == 0.21.1
 numpy
 jieba
 scipy
